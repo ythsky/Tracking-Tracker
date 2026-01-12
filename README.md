@@ -25,3 +25,5 @@ With this visual tracker, you can:
 · Use the File menu to run tests, clear memory (requires restart), or manage your database.
 
 Remember: this isn’t just a food tracker—it’s your visual deadline companion. Use it wisely, waste less ✨
+
+Download the Windows version (app_win.zip) or Mac version (app_mac.zip) now. After extraction, run the Fridge Tracker software to experience it.
